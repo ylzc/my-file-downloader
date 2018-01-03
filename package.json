@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-file-downloader@^0.3.1",
+        "scope": null,
+        "escapedName": "cordova-plugin-file-downloader",
+        "name": "cordova-plugin-file-downloader",
+        "rawSpec": "^0.3.1",
+        "spec": ">=0.3.1 <0.4.0",
+        "type": "range"
+      },
+      "/Users/suc/Desktop/apps/erciwupu"
+    ]
+  ],
+  "_from": "cordova-plugin-file-downloader@>=0.3.1 <0.4.0",
+  "_id": "cordova-plugin-file-downloader@0.3.1",
+  "_inCache": true,
+  "_location": "/cordova-plugin-file-downloader",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-file-downloader-0.3.1.tgz_1510660053762_0.22871997556649148"
+  },
+  "_npmUser": {
+    "name": "mramonlopez",
+    "email": "mramon.lopez@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-file-downloader@^0.3.1",
+    "scope": null,
+    "escapedName": "cordova-plugin-file-downloader",
+    "name": "cordova-plugin-file-downloader",
+    "rawSpec": "^0.3.1",
+    "spec": ">=0.3.1 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-file-downloader/-/cordova-plugin-file-downloader-0.3.1.tgz",
+  "_shasum": "0247baa5452aed9ae46a62cf213ec032626dd414",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-file-downloader@^0.3.1",
+  "_where": "/Users/suc/Desktop/apps/erciwupu",
+  "author": {
+    "name": "Fabian Strachanski, Manuel Ramon Lopez Torres"
+  },
+  "bugs": {
+    "url": "https://github.com/mramonlopez/cordova-plugin-file-downloader/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-file-downloader",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Downloads files to persistant Storage on your Phone, checks md5sum if you want, unzips packed files if necessary (For Android and iOS)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0247baa5452aed9ae46a62cf213ec032626dd414",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-file-downloader/-/cordova-plugin-file-downloader-0.3.1.tgz"
+  },
+  "gitHead": "7081ff1a2ac210e204ec404d04b7d198f93efc6a",
+  "homepage": "https://github.com/mramonlopez/cordova-plugin-file-downloader#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "file",
+    "download",
+    "downloader",
+    "multiple",
+    "md5",
+    "unzip"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "mramonlopez",
+      "email": "mramon.lopez@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-file-downloader",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mramonlopez/cordova-plugin-file-downloader.git"
+  },
+  "scripts": {},
+  "version": "0.3.1"
+}
