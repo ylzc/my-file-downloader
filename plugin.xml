@@ -10,9 +10,6 @@
 	<issue>https://github.com/mramonlopez/cordova-plugin-file-downloader/issues</issue>
 	<dependency id="cordova-plugin-file" version=">=4.3.0" />
 	<dependency id="cordova-plugin-file-transfer" version=">=1.6.3" />
-	<dependency id="cordova-plugin-network-information" version=">=1.3.3" />
-	<dependency id="cordova-plugin-zip" version=">=3.1.0" />
-	<dependency id="cordova-plugin-file-md5" version="0.3.1" />
 
 	<js-module src="www/downloader.js" name="downloader">
 		<clobbers target="downloader" />
